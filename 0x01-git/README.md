@@ -1,1 +1,1 @@
-This my first readme for the pre course
+This my first readme for the pre course updated
